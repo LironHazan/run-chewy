@@ -1,0 +1,15 @@
+{
+  "name": "run-chewy",
+  "version": "1.0.0",
+  "description": "js and ts unit tests runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liron Hazan",
+  "license": "ISC",
+  "dependencies": {
+    "@swc/core": "^1.2.197",
+    "yargs": "^17.5.1"
+  }
+}

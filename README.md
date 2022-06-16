@@ -1,0 +1,1 @@
+Javascript and Typescript fast tests runner powered by swc
